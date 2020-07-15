@@ -3,8 +3,8 @@
 <p><em>Computer Science Student at <a href="https://www.srmist.edu.in/">SRM University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://twitter.com/mayu198_)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank198/)](https://www.linkedin.com/in/mayank198/)
+![Twitter Follow](https://img.shields.io/twitter/follow/mayu198_?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank198/)](https://www.linkedin.com/in/mayank198/)
 ![GitHub followers](https://img.shields.io/github/followers/mayank-srm?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
